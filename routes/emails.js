@@ -29,7 +29,7 @@ module.exports = {
 			email: 'contact@into-the-wild.com',
 			phone: '+61 2 1234 5678',
 			enquiryType: 'message',
-			message: { md: 'Nice enquiry notification.' }
+			message: { md: 'Thank you for your interest in awesomeness.' }
 		});
 		
 		callback(null, {
